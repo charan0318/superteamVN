@@ -1,0 +1,25 @@
+{
+    "members": [
+      {
+        "name": "Alice",
+        "skills": ["RUST", "DeFi", "Twitter API"],
+        "experience_years": 3,
+        "availability": true,
+        "bio": "Specializes in building DeFi protocols with seamless integrations."
+      },
+      {
+        "name": "Bob",
+        "skills": ["Python", "Solidity", "Smart Contracts"],
+        "experience_years": 5,
+        "availability": false,
+        "bio": "Experienced in writing and auditing smart contracts."
+      },
+      {
+        "name": "Charlie",
+        "skills": ["RUST", "DeFi"],
+        "experience_years": 2,
+        "availability": true,
+        "bio": "Focuses on secure RUST-based projects."
+      }
+    ]
+  }
